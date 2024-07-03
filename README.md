@@ -8,7 +8,7 @@ Este es un proyecto de ecommerce desarrollado con Vite y React.
 1. **Clona el repositorio:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/mariomarquesto/vite-ecommerce.git)
    cd vite-ecommerce
 Instala las dependencias:
 
