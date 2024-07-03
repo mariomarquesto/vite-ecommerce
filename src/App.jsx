@@ -10,6 +10,7 @@ import {
 // Components
 import Sidebar from "./components/shared/Sidebar";
 import Car from "./components/shared/Car";
+import Header from "./components/shared/Header";
 import Card from "./components/shared/Card";
 
 function App() {
@@ -48,7 +49,7 @@ function App() {
       <main className="lg:pl-32 lg:pr-96 pb-20">
         <div className="md:p-8 p-4">
           {/* Header */}
-      
+          <Header />
           {/* Title content */}
           <div className="flex items-center justify-between mb-16">
             <h2 className="text-xl text-gray-300">Choose Dishes</h2>
